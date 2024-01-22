@@ -7,7 +7,7 @@ An Ableton Live 11/Max For Live Unidirectional Editor For [Polyend Tracker](http
 <ul>Ableton Live 11</ul>
 <ul>Max For Live 8</ul>
 <h2>Usage</h2>
-Add the file [polyend-tracker-editor.amxd](/polyend-tracker-editor.amxd) to your favorite Max 4 Live MIDI effects path.<br>
+Add the file polyend-tracker-editor.amxd to your favorite Max 4 Live MIDI effects path.<br>
 
 The editor controls are mapped to the Polyend Tracker's MIDI Input [mapping](https://polyend.com/manuals/tracker/#appendix--midi-cc-input-chart).<br>
 
